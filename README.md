@@ -13,3 +13,5 @@ Streamlit as a versatile Python library tailored for crafting dynamic web applic
 This project is deployed on Streamlit app. To run the app run the following command
 
 `streamlit run detect2.py`
+
+Dataset source: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
