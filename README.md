@@ -1,7 +1,7 @@
 
 # Fake News Detection
 
-In this project we have detected fake news using LSTM method. We have done EDA which can be seen in the notebook FAKE_DETECT.py.
+In this project we have detected fake news using LSTM method. We have done EDA which can be seen in the notebook FAKE_DETECT.ipynb.
 
 Install required packages by running 
 `pip install -r "requirements.txt`
